@@ -1,7 +1,7 @@
 This project consolidates learnings from undertaking the HyperionDev/CoGrammar bootcamp in data science.
 
 The topics consolidated include:
-● Setting up and navigating Python IDEs, with emphasis on VS Code.
+● Setting up and navigating Python IDEs, with emphasis on VS Code. \n
 ● Gathering and displaying user data using Python’s basic input/output
 functions.
 ● Recognizing and manipulating core Python data types.
